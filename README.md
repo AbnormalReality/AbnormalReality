@@ -14,11 +14,11 @@ Im a Data Analyst from Russia </div>
 * Know about my experiences [CV in Russian](cv-link)
 * In my free time I like to keep up to date with the latest trends and technologies and increase the level of knowledge - Youtube, Stepik, etc.
 * My languages - Russian,English
-<br/>
 
-<div align="center">
+
+
 ### Connect with me 
-</div>
+
 <div align="center">
 <a href="mailto:serg.anikin@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
