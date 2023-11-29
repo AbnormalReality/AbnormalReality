@@ -21,8 +21,12 @@ Im a Data Analyst from Russia
 * Know about my experiences [CV in Russian](cv-link)
 * In my free time I like to keep up to date with the latest trends and technologies and increase the level of knowledge - Youtube, Stepik, etc.
 * My languages - Russian,English
-
+  
+<div align="center">
+  
 ### My Stack
+
+</div>
 
 <p>
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -53,7 +57,5 @@ Im a Data Analyst from Russia
 <a href="https://" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
-</div>
