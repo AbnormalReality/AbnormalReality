@@ -57,5 +57,10 @@ Im a Data Analyst from Russia
 <a href="https://" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+
+
+
+
+  
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
