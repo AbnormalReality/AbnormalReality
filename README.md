@@ -1,10 +1,16 @@
 <div align="center"> 
 
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sergei Anikin
-
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+My name is Sergei Anikin
 Im a Data Analyst from Russia 
+</div>
 ------------
+<div align="center"> 
+  
 ### About me
+
+</div>
+
 * I worked in the banking sector, now I’m looking for a career in data analytics and IT.
 * Priority specializations:
    * Product analyst
@@ -16,8 +22,11 @@ Im a Data Analyst from Russia
 * My languages - Russian,English
 
 
-
+<div align="center">
+  
 ### Connect with me 
+
+</div>
 
 <div align="center">
 <a href="mailto:serg.anikin@gmail.com" target="_blank">
