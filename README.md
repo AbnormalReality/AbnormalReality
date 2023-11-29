@@ -1,21 +1,30 @@
-<div align="center">
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergei Anikin
+### <div align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergei Anikin
 =====================================================================================================================================
 
-Im a Data Analyst from Russia
+Im a Data Analyst from Russia </div>  
 ------------
-
-I worked in the banking sector, now I’m looking for a career in data analytics and IT. Priority specializations: — Analyst — Product analyst — Financial analyst, investment analyst — Business analyst — BI analyst, data analyst
-
 ### About me
-
+* I worked in the banking sector, now I’m looking for a career in data analytics and IT.
+* Priority specializations:
+   — Analyst
+   — Product analyst
+   — Financial analyst, investment analyst
+   — Business analyst
+   — BI analyst
 * Know about my experiences [CV in Russian](cv-link)
 * In my free time I like to keep up to date with the latest trends and technologies and increase the level of knowledge - Youtube, Stepik, etc.
 * My languages - Russian,English
+<br/>  
 
-### Connect with me  
-* [https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white](mailto:serg.anikin@gmail.com), [https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white](linkedin-link)
+### Connect with me
+<div align="center">
+<a href="mailto:serg.anikin@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<div align="center">
+<a href="https://" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 
 ### Languages and tools
 
