@@ -2,7 +2,7 @@
 
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sergei Anikin
 
-Im a Data Analyst from Russia </div>
+Im a Data Analyst from Russia 
 ------------
 ### About me
 * I worked in the banking sector, now I’m looking for a career in data analytics and IT.
@@ -28,7 +28,7 @@ Im a Data Analyst from Russia </div>
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 
-### Languages and tools
+### My Stack
 
 <p>
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
