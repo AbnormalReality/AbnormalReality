@@ -18,7 +18,7 @@ Im a Data Analyst from Russia
    * Financial analyst, investment analyst
    * Business analyst
    * BI analyst
-* Know about my experiences [CV in Russian](cv-link)
+* Know about my experiences [CV in Russian](https://hh.ru/resume/046fdfecff0c7082240039ed1f694b56494f61)
 * In my free time I like to keep up to date with the latest trends and technologies and increase the level of knowledge - Youtube, Stepik, etc.
 * My languages - Russian,English
   
@@ -62,7 +62,7 @@ Im a Data Analyst from Russia
 <img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <div align="center">
-<a href="https://" target="_blank">
+<a href="https://" target=](https://ru.linkedin.com/in/sergey-s-anikin-919a9b32" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 
