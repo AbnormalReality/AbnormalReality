@@ -62,7 +62,7 @@ Im a Data Analyst from Russia
 <img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <div align="center">
-<a href="https://https://ru.linkedin.com/in/sergey-s-anikin-919a9b32">
+<a href="https://ru.linkedin.com/in/sergey-s-anikin-919a9b32">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 
