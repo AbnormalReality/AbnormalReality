@@ -58,11 +58,11 @@ Im a Data Analyst from Russia
 </div>
 
 <div align="center">
-<a href="mailto:serg.anikin@gmail.com" target="_blank">
+<a href="mailto:serg.anikin@gmail.com">
 <img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <div align="center">
-<a href="https://" target=](https://ru.linkedin.com/in/sergey-s-anikin-919a9b32" target="_blank">
+<a href="https://https://ru.linkedin.com/in/sergey-s-anikin-919a9b32">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 
