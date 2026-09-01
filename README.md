@@ -14,6 +14,7 @@ Im a Data Analyst from Russia
 
 * I worked in the banking sector, now I’m looking for a career in data analytics and IT.
 * Priority specializations:
+   * 1C
    * Product analyst
    * Financial analyst, investment analyst
    * Business analyst
