@@ -18,7 +18,7 @@ Im a Data Analyst from Russia
    * Financial analyst, investment analyst
    * Business analyst
    * BI analyst
-* Know about my experiences [CV in Russian -HeadHunter]([[https://hh.ru/resume/5f52777eff0e9884d70039ed1f6c5a576b4d48])
+* Know about my experiences [CV in Russian -HeadHunter]([https://hh.ru/resume/5f52777eff0e9884d70039ed1f6c5a576b4d48])
 * In my free time I like to keep up to date with the latest trends and technologies and increase the level of knowledge - Youtube, Stepik, etc.
 * My languages - Russian,English
   
