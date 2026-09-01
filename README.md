@@ -58,7 +58,11 @@ Im a Data Analyst from Russia
 </div>
 
 <div align="center">
-[![Yandex Mail](https://shields.io)](mailto:abnormalreality@yandex.ru)
+<a href="mailto:abnormalreality@yandex.ru">
+  <img src="https://shields.io" alt="Yandex Mail">
+</a>
+
+
 </a>
 
 
