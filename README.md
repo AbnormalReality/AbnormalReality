@@ -30,6 +30,7 @@ Im a Data Analyst from Russia
 </div>
 
 <p>
+    <img src="https://img.shields.io/badge/1С:Предприятие-EE2A23?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-181717.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
