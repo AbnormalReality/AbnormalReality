@@ -12,7 +12,7 @@ Im a Data Analyst from Russia
 
 </div>
 
-* I worked in the banking sector, now I’m looking for a career in data analytics and IT.
+* I worked in the banking sector, now I’m looking for a career in 1C/data analytics and IT.
 * Priority specializations:
    * 1C
    * Product analyst
