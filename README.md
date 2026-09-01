@@ -59,7 +59,7 @@ Im a Data Analyst from Russia
 
 <div align="center">
 <a href="mailto:abnormalreality@yandex.ru">
-  <img src="https://img.shields.io/badge/YandexMail>
+ <img src="https://shields.io" alt="Yandex Mail">
 </a>
 
 </div>
