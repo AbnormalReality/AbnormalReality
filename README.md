@@ -63,7 +63,7 @@ Im a Data Analyst from Russia
 </a>
 
 
-</a>
+
 
 
 
